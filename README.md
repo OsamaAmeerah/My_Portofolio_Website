@@ -1,6 +1,6 @@
 # My personal portofolio
 using html + css + bootstrap + font awesome.
 The website includes:
-A project section,
-A introduction about me and
-A Contact me section.
+project section,
+introduction about me and
+Contact me section.
